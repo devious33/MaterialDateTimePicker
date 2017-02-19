@@ -69,7 +69,7 @@
         android:paddingLeft="@dimen/mdtp_separator_padding"
         android:paddingRight="@dimen/mdtp_separator_padding"
         android:layout_centerHorizontal="true"
-        android:layout_above="@id/seconds_space"
+        android:layout_above="@+id/seconds_space"
         android:textColor="@color/mdtp_accent_color_focused"
         style="@style/mdtp_time_label"
         android:importantForAccessibility="no" />
